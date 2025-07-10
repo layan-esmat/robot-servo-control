@@ -30,7 +30,7 @@ The project uses the `Servo` library to control servo angles. Each servo moves i
 - All four servos perform a sweep motion (0–180–0 degrees) for 2 seconds.
 - After 2 seconds, all servos are set to 90 degrees and remain there.
 
-The full code is available in the `servo_sweep_and_hold.ino` file.
+The full code is available in the `4 servo motors-code` file.
 
 ## Future Improvements
 
