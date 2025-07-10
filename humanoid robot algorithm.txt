@@ -1,0 +1,42 @@
+humanoid robot algorithm:
+
+Initialize
+
+Set initial servo angles: hips at 90°, knees straight, ankles balanced.
+
+Shift Weight to Left Leg
+
+Slightly tilt the torso left (via hip servos).
+
+Bend right knee a little to lift the right foot.
+
+Move Right Leg Forward
+
+Swing right leg forward using hip joint.
+
+Keep the leg slightly lifted.
+
+Place Right Foot Down
+
+Extend the right knee (leg straightens).
+
+Lower the foot to the ground.
+
+Shift Weight to Right Leg
+
+Tilt torso right.
+
+Lift left foot by bending left knee.
+
+Move Left Leg Forward
+
+Swing left leg forward using hip joint.
+
+Place Left Foot Down
+
+Extend left knee.
+
+Stabilize using both legs.
+
+Repeat from Step 2
+
