@@ -38,6 +38,3 @@ The full code is available in the `4 servo motors-code` file.
 - Use inverse kinematics for more precise motion.
 - Expand to more servos for full leg and arm articulation.
 
-## License
-
-This project is open-source and available under the MIT License.
